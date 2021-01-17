@@ -9,21 +9,16 @@ The Sparks Foundation mission is to inspire students, help them innovate, and le
 Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 🚀Clone Repository
-https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science.git
-🔑Prerequisites
-pip install jupyter
-pip install seaborn
-pip install pandas
-pip install scipy
-pip install matplotlib
+https://github.com/chiragsinghchaudhary/TSF-Intership-Projects
 
 🛠Built With
+Python
 Scikit-learn
+Notebook
+Tableau
 📁 Dataset
 You can get the Dataset here
 
-Task 1-Supervised Learning
-Task 2-UnSupervised Learning
 💡Working
 Make Sure that you Either Have Jupyter Notebook or Spyder to Run the code with amazing Visualizations and run any of the following in your Command Prompt in the directory that holds this repo.
 
@@ -32,10 +27,10 @@ or
 
 Spyder
 👏And it's done!
-Feel free to mail me for any doubts/query ✉️ aparajitad60@gmail.com
+Feel free to mail me for any doubts/query ✉️ chaudharychiragsingh@gmail.com
 
 💃Authors
-Aparajita Das - Github - Linkedin - Instagram
+chiragsinghchaudhary - Github - Linkedin - Instagram
 See also the list of contributors
 
 👀License
