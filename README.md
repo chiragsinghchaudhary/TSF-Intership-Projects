@@ -9,7 +9,7 @@ The Sparks Foundation mission is to inspire students, help them innovate, and le
 Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 🚀Clone Repository
-https://github.com/chiragsinghchaudhary/TSF-Intership-Projects
+https://github.com/chiragsinghchaudhary/The_sparks_foundation_TSF_Intership_Projects
 
 🛠Built With
 Python
